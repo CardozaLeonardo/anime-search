@@ -1,0 +1,11 @@
+.anime-detail {
+    font-family: Montserrat, Roboto;
+    color: white;
+    width: 595px;
+}
+
+.anime-synopsis {
+    font-size: 13px;
+    font-weight: 700;
+    color: #CFC4C4;
+}
